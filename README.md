@@ -1,6 +1,6 @@
 # hanbetucloud7
 
-aidemyの研修で作った、kerasのcifer10モデルを使って雲の識別をするflask上でのwebアプリ
+kerasのcifer10モデルを使って雲の識別をするflask上でのwebアプリ
 （オリジナルのhanbetucloud）はデザインが真っ白であまりにもひどいので、
 ちゃんとテンプレートフォルダとかをわけて、htmlやcss,boorstrap,jqueryを組み込ませようとしたのですが
 エラーが出つづけていていまだに完成していません
